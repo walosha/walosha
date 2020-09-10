@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **walosha/walosha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 08185431319
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love video games, watching crime and epic movies and coding!
--->
+
