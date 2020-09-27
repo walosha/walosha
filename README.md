@@ -20,7 +20,7 @@ I am **Olawale Afuye**, a senior software engineer.
 
 <br />
 <br />
-<img align="left" alt="Olawale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itzpradip&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="Olawale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itzpradip&show_icons=true&hide_border=true" /> -->
 
 [website]: https://www.waleafuye.cf/
 [twitter]: https://twitter.com/afuye_dev
