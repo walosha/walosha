@@ -16,9 +16,10 @@ I am **Olawale Afuye**, a senior software engineer.
 <code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<br />
-<br />
+<code><img alt="Nodejs" width="26px" src="https://nodejs.org/static/images/logo.svg" /></code>
 
+<br />
+<br />
 <img align="left" alt="Olawale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itzpradip&show_icons=true&hide_border=true" />
 
 [website]: https://www.waleafuye.cf/
