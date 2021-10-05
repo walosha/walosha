@@ -7,7 +7,7 @@
 I am **Olawale Afuye**, a senior software engineer.
 
 - 🔭 I’m currently working on react, nextjs,graphql,Angular, codeIgniter, nestjs, express and nodejs, react-native projects and apps.
-- 🔭 I’m currently learning on Vuejs. PHP,  and Laravel.
+- 🔭 I’m currently learning on Vuejs. PHP,Laravel and Java.
 - 🔭 I use Netlify, Vercel for frontend projects and heroku, digital ocean and aws ( S3, cloudfront,EC2).
 - 👯 I’m looking to collaborate on fun and complex projects that solves human challenges.
 - 💬 Ask me about anything and send me a mail on walosha@yahoo.com.
