@@ -32,3 +32,6 @@ I am **Olawale Afuye**, a senior software engineer.
 [facebook]: https://www.facebook.com/havater
 [linkedin]: https://www.linkedin.com/in/afuye-olawale-687130b/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walosha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
