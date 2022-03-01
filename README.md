@@ -9,11 +9,12 @@ I am **Olawale Afuye**, a senior software engineer.
 - 🔭 I’m currently working on react, nextjs,graphql, typescript, angular, codeigniter, nestjs,and nodejs, react-native projects and apps.
 - 🔭 I’m currently learning on Vuejs. PHP,Laravel and Java.
 - 🔭 I’m into Mysql, postgres and mongodb databases.
+- I love Macbook and Linux operating systems
 - 🔭 I use Netlify, Vercel for frontend projects and heroku, digital ocean and aws ( S3, cloudfront,EC2).
 - 👯 I’m looking to collaborate on fun and complex projects that solves human challenges.
 - 💬 Ask me about anything and send me a mail on walosha@yahoo.com.
-- 🍍when not coding for work @ ( Venture234 & Fresible company), I work for my company and you can get me on hello@pacific-professional.com.ng
-- 📫 How to reach me: 08185431319 (call and whatsapp,
+- 🍍when not coding for work @ ( Venture234 & Pacific professional company), shoot me an email on hello@pacific-professional.com.ng
+- 📫 How to reach me: 08185431319 (call and whatsapp)
 - 😄 I love to read stuff on life, programming, Music, Movies and entertainment at large
 - ⚡ Fun fact: I love video games, watching crime, horror, war and epic movies!
 
