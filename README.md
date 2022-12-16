@@ -8,10 +8,10 @@
 I am **Olawale Afuye**, a senior software engineer.
 
 - 🔭 I’m currently working on react, nextjs,graphql, typescript, angular, codeigniter, nestjs,and nodejs, react-native projects and apps.
-- 🔭 I’m currently learning on Docker, k8s and Blockchain .
+- 🔭 I love working with AWS services like elastic Beanstalk, EC2,ECS,EKS,S3,Cloudfront,Lamda,RDS,VPC,IAM,ECR .
+- 🔭 I’m currently learning on Github action, terraform, Docker, k8s and Blockchain .
 - 🔭 I’m into Mysql, postgres and mongodb databases.
 - I love Macbook and Linux operating systems
-- 🔭 I use github actions and  AWS services ( ec2, ebs, CloudFront, s3 and lamdda).
 - 👯 I’m looking to collaborate on fun and complex projects that solves human challenges.
 - 💬 Ask me about anything and send me a mail on walosha@yahoo.com.
 - 🍍when not coding for work @ ( Prunedge Technologies & Pacific professional company), shoot me an email on hello@pacific-professional.com.ng
