@@ -38,3 +38,6 @@ I am **Olawale Afuye**, a senior software engineer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walosha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<a href="https://github.com/walosha"><img src="contributions.svg"></a>
+
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=walosha.walosha" />
