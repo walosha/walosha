@@ -40,4 +40,4 @@ I am **Olawale Afuye**, a senior software engineer.
 
 <a href="https://github.com/walosha"><img src="contributions.svg"></a>
 
-<!-- <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=walosha.walosha" /> -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=walosha&left_color=green&right_color=red)
