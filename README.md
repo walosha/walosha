@@ -24,8 +24,8 @@ I am **Olawale Afuye**, a senior software engineer.
 
 [website](https://www.waleafuye.cf)
 [twitter](https://twitter.com/afuye_dev)
-[facebook]: https://www.facebook.com/havater
-[linkedin]: https://www.linkedin.com/in/afuye-olawale-687130b/
+[facebook](https://www.facebook.com/havater)
+[linkedin](https://www.linkedin.com/in/afuye-olawale-687130b/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walosha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
