@@ -22,8 +22,8 @@ I am **Olawale Afuye**, a senior software engineer.
 - 😄 I love to read stuff on programming, Music, Movies and family
 
 
-[website]: https://www.waleafuye.cf/
-[twitter]: https://twitter.com/afuye_dev
+[website](https://www.waleafuye.cf)
+[twitter](https://twitter.com/afuye_dev)
 [facebook]: https://www.facebook.com/havater
 [linkedin]: https://www.linkedin.com/in/afuye-olawale-687130b/
 
