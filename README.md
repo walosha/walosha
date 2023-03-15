@@ -20,10 +20,10 @@ I am **Olawale Afuye**, a senior software engineer.
 - 🍍when not coding shoot me an email on hello@pacific-professional.com.ng
 - 📫 How to reach me: 08185431319 (call and whatsapp)
 - 😄 I love to read stuff on programming, Music, Movies and family
-*   🌍  I'm based in Lagos
-*   🖥️  See my portfolio at [Church API](http://https://157.230.16.234/api/doc/)
-*   ✉️  You can contact me at [walosha@yahoo.com](mailto:walosha@yahoo.com)
-*   🧠  I'm learning Django<a href="https://www.github.com/https://github.com/walosha" target="_blank" rel="noreferrer"><img
+* 🌍  I'm based in Lagos
+* 🖥️  See my portfolio at [Church API](http://https://157.230.16.234/api/doc/)
+* ✉️  You can contact me at [walosha@yahoo.com](mailto:walosha@yahoo.com)
+* 🧠  I'm learning Django<a href="https://www.github.com/https://github.com/walosha" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/https://github.com/walosha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
