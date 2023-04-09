@@ -18,12 +18,10 @@ I am **Olawale Afuye**, a senior software engineer.
 - 💬 Ask me about anything and send me a mail on walosha@yahoo.com.
 - 🍍when not coding shoot me an email on hello@pacific-professional.com.ng
 
-## Some of my Blog Posts 
+## My Blog Posts 
 
 - [Registry Pattern](https://dev.to/walosha/registry-pattern-revolutionize-your-object-creation-and-management-lms-as-a-case-study-58km)
 - [Smart Steps for Remote Work Newbies: Protecting Yourself in the Digital Landscape ](https://dev.to/walosha/smart-steps-for-remote-work-newbies-protecting-yourself-in-the-digital-landscape-428o)
 - [Adapter Pattern](https://dev.to/walosha/adapter-pattern-using-a-payment-gateway-as-a-case-study-4nnn)
 - [Command Pattern](https://dev.to/walosha/command-pattern-in-programming-using-a-uber-app-pjd)
-
-
-Please, feel free to reach out if you have any question(s). 😉
+- [Introduction to Domain Drven Design ( Part 1)](https://dev.to/walosha/introduction-to-domain-drven-design-part-1-2ode)
