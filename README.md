@@ -6,9 +6,9 @@
 
 I am **Olawale Afuye**, a senior software engineer.
 
-- 🔭 I currently speak three languages Javascript, PHP and Python
+- 🔭 I currently speak three languages Javascript (typescript), PHP and Python
 - 🔭 My backend stacks are Nodejs, Nestjs, Codeigniter,graphql and Django
-- 🔭 My frontend stacks are react, nextjs,graphql, typescript, angular
+- 🔭 My frontend stacks are react, nextjs,angular
 - 🔭 My moibie stack is react-native only.
 - 🔭 I love working with AWS services like elastic Beanstalk, EC2,ECS,EKS,S3,Cloudfront,Lamda,RDS,VPC,IAM,ECR .
 - 🔭 I’m currently learning on Github action, terraform, Docker, k8s and Blockchain .
