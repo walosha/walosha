@@ -20,8 +20,13 @@ I am **Olawale Afuye**, a senior software engineer.
 
 ## My Blog Posts 
 
-- [Registry Pattern](https://dev.to/walosha/registry-pattern-revolutionize-your-object-creation-and-management-lms-as-a-case-study-58km)
-- [Smart Steps for Remote Work Newbies: Protecting Yourself in the Digital Landscape ](https://dev.to/walosha/smart-steps-for-remote-work-newbies-protecting-yourself-in-the-digital-landscape-428o)
-- [Adapter Pattern](https://dev.to/walosha/adapter-pattern-using-a-payment-gateway-as-a-case-study-4nnn)
-- [Command Pattern](https://dev.to/walosha/command-pattern-in-programming-using-a-uber-app-pjd)
-- [Introduction to Domain Drven Design ( Part 1)](https://dev.to/walosha/introduction-to-domain-drven-design-part-1-2ode)
+- [RN_Twillo_Mobile_Call](https://github.com/walosha/RN_Twillo_Mobile_Call)
+- [Glorifiers Fintech](https://github.com/walosha/glorifiers-mobile)
+- [Chat App built with flask and socket.io](https://github.com/walosha/python-flask-chat-with-socket.io)
+- [company site](https://github.com/walosha/company-site)
+- [Meal managemnet built with nestjs](https://github.com/walosha/nestjs-meal-management)
+- [Nestjs hoste don EC2 with github actions](https://github.com/walosha/backend-nestjs)
+- [Chat App built with nodejs and react](https://github.com/walosha/Real-Chat-App)
+- [App deployed using serverless!](https://github.com/walosha/ussd-north)
+- [Module Federation react app](https://github.com/walosha/module_federation)
+- [Maintenance Tracker (First every backend project,lol)](https://github.com/walosha/maintenance-tracker-Api)
