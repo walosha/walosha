@@ -4,20 +4,18 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=walosha&theme=green&hide_border=true)
 
-I am **Olawale Afuye**, a senior software engineer.
+👋 Hi there, I'm Olawale Afuye - a senior software engineer with a passion for crafting elegant solutions to complex problems. Here are some things to know about me:
 
-- 🔭 I currently speak three languages Javascript (typescript), PHP and Python
-- 🔭 My backend stacks are Nodejs, Nestjs, Codeigniter,graphql and Django
-- 🔭 My frontend stacks are react, nextjs,angular
-- 🔭 My moibie stack is react-native only.
-- 🔭 I love working with AWS services like elastic Beanstalk, EC2,ECS,EKS,S3,Cloudfront,Lamda,RDS,VPC,IAM,ECR .
-- 🔭 I’m currently learning on Github action, terraform, Docker, k8s and Blockchain .
-- 🔭 I’m into Mysql, postgres and mongodb databases.
-- I love Macbook and Linux operating systems
-- 👯 I’m looking to collaborate on fun and complex projects that solves human challenges.
-- 💬 Ask me about anything and send me a mail on walosha@yahoo.com.
-- 🍍when not coding shoot me an email on hello@pacific-professional.com.ng
-
+🔭 I'm fluent in three programming languages: JavaScript (TypeScript), PHP, and Python.
+🔭 My expertise spans across a range of backend stacks including Node.js, Nest.js, CodeIgniter, GraphQL, and Django.
+🔭 On the frontend, I work with React, Next.js, and Angular.
+🔭 For mobile app development, I specialize in React Native.
+🔭 I have a love for AWS services such as Elastic Beanstalk, EC2, ECS, EKS, S3, Cloudfront, Lambda, RDS, VPC, IAM, and ECR.
+🔭 Currently, I'm learning about GitHub Actions, Terraform, Docker, Kubernetes, and Blockchain.
+🔭 When it comes to databases, I have experience with MySQL, PostgreSQL, and MongoDB.
+💻 I'm a big fan of Macbooks and Linux operating systems.
+👯 I'm always looking for fun and challenging projects to collaborate on.
+💬 Feel free to reach out to me for anything, you can send me an email at walosha@yahoo.com or say hello at hello@pacific-professional.com.ng when I'm not coding.
 ## My Blog Posts 
 
 - [Registry Pattern](https://dev.to/walosha/registry-pattern-revolutionize-your-object-creation-and-management-lms-as-a-case-study-58km)
