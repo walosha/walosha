@@ -4,6 +4,7 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=walosha&theme=green&hide_border=true)
 
+```text
 👋 Hi there, I'm Olawale Afuye - a senior software engineer with a passion for crafting elegant solutions to complex problems. Here are some things to know about me:
 
 🔭 I'm fluent in three programming languages: JavaScript (TypeScript), PHP, and Python.
@@ -24,6 +25,7 @@
 - [Command Pattern](https://dev.to/walosha/command-pattern-in-programming-using-a-uber-app-pjd)
 - [Introduction to Domain Drven Design ( Part 1)](https://dev.to/walosha/introduction-to-domain-drven-design-part-1-2ode)
 
+```
 ## My Projects 
 
 - [Church management system built with Django](https://github.com/walosha/church_be)
