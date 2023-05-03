@@ -1,9 +1,9 @@
 ### Hi there, thank you for checking on my repo. Feel free to use any of the project to your own satisfaction 👋
 
 [![Afuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=walosha&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=walosha&theme=green&hide_border=true)
 
 ``` text
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=walosha&theme=green&hide_border=true)
 
 Welcome to my GitHub profile! My name is Olawale Afuye, and I'm a senior software engineer who loves nothing more than tackling complex challenges with elegant solutions. Here are a few things you should know about me:
 
