@@ -31,6 +31,7 @@ Thanks for stopping by!eel free to reach out to me for anything, you can send me
 ## My Projects 
 
 - [Church management system built with Django](https://github.com/walosha/church_be)
+- [Chat app built with Flask and socket.io](https://github.com/walosha/python-flask-chat-with-socket.io)
 - [Nodejs application built with express, swagger,redis,mongo and docker](https://github.com/walosha/BACKEND_DEV_TESTS)
 - [REACT NATIVE_Twillo_Mobile_Call](https://github.com/walosha/RN_Twillo_Mobile_Call)
 - [Micro-front app built](https://github.com/walosha/single-spa-microfrontend-aws)
