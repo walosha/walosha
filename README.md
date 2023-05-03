@@ -28,12 +28,16 @@ I am **Olawale Afuye**, a senior software engineer.
 
 ## My Projects 
 
-- [RN_Twillo_Mobile_Call](https://github.com/walosha/RN_Twillo_Mobile_Call)
-- [Glorifiers Fintech](https://github.com/walosha/glorifiers-mobile)
+- [Church management system built with Django](https://github.com/walosha/church_be)
+- [Nodejs application built with express, swagger,redis,mongo and docker](https://github.com/walosha/BACKEND_DEV_TESTS)
+- [REACT NATIVE_Twillo_Mobile_Call](https://github.com/walosha/RN_Twillo_Mobile_Call)
+- [Micro-front app built](https://github.com/walosha/single-spa-microfrontend-aws)
+- [Glorifiers Fintech Mobile app](https://github.com/walosha/glorifiers-mobile)
 - [Chat App built with flask and socket.io](https://github.com/walosha/python-flask-chat-with-socket.io)
 - [company site](https://github.com/walosha/company-site)
+- [Movix built with firbasestore and auth features](https://github.com/walosha/movix)
 - [Meal managemnet built with nestjs](https://github.com/walosha/nestjs-meal-management)
-- [Nestjs hoste don EC2 with github actions](https://github.com/walosha/backend-nestjs)
+- [Nestjs hosted on EC2 with github actions](https://github.com/walosha/backend-nestjs)
 - [Chat App built with nodejs and react](https://github.com/walosha/Real-Chat-App)
 - [App deployed using serverless!](https://github.com/walosha/ussd-north)
 - [Module Federation react app](https://github.com/walosha/module_federation)
