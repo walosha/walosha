@@ -2,21 +2,21 @@
 
 [![Afuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=walosha&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+``` text
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=walosha&theme=green&hide_border=true)
 
-```text
-👋 Hi there, I'm Olawale Afuye - a senior software engineer with a passion for crafting elegant solutions to complex problems. Here are some things to know about me:
+Welcome to my GitHub profile! My name is Olawale Afuye, and I'm a senior software engineer who loves nothing more than tackling complex challenges with elegant solutions. Here are a few things you should know about me:
 
-🔭 I'm fluent in three programming languages: JavaScript (TypeScript), PHP, and Python.
-🔭 My expertise spans across a range of backend stacks including Node.js, Nest.js, CodeIgniter, GraphQL, and Django.
-🔭 On the frontend, I work with React, Next.js, and Angular.
-🔭 For mobile app development, I specialize in React Native.
-🔭 I have a love for AWS services such as Elastic Beanstalk, EC2, ECS, EKS, S3, Cloudfront, Lambda, RDS, VPC, IAM, and ECR.
-🔭 Currently, I'm learning about GitHub Actions, Terraform, Docker, Kubernetes, and Blockchain.
-🔭 When it comes to databases, I have experience with MySQL, PostgreSQL, and MongoDB.
-💻 I'm a big fan of Macbooks and Linux operating systems.
-👯 I'm always looking for fun and challenging projects to collaborate on.
-💬 Feel free to reach out to me for anything, you can send me an email at walosha@yahoo.com or say hello at hello@pacific-professional.com.ng when I'm not coding.
+🔭 I'm a polyglot programmer, fluent in three languages: JavaScript (TypeScript), PHP, and Python.
+🔭 My expertise spans a range of backend stacks including Node.js, Nest.js, CodeIgniter, GraphQL, and Django. I'm also well-versed in a number of frontend frameworks like React, Next.js, and Angular.
+🔭 I'm a skilled mobile app developer, with a specialization in React Native.
+🔭 I have extensive experience with AWS services like Elastic Beanstalk, EC2, ECS, EKS, S3, Cloudfront, Lambda, RDS, VPC, IAM, and ECR.
+🔭 Currently, I'm learning about some exciting new technologies like GitHub Actions, Terraform, Docker, Kubernetes, and Blockchain.
+🔭 When it comes to databases, I've worked extensively with MySQL, PostgreSQL, and MongoDB.
+💻 I'm an avid fan of both Macbooks and Linux operating systems.
+👯 I'm always on the lookout for new and exciting projects to collaborate on, especially those that aim to solve complex human challenges.
+💬 Feel free to drop me a line anytime! You can reach me at walosha@yahoo.com, or if I'm not coding, at hello@pacific-professional.com.ng.
+Thanks for stopping by!eel free to reach out to me for anything, you can send me an email at walosha@yahoo.com or say hello at hello@pacific-professional.com.ng when I'm not coding.
 ```
 
 ## My Blog Posts 
