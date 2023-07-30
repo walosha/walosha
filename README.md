@@ -31,6 +31,7 @@ Thanks for stopping by!eel free to reach out to me for anything, you can send me
 
 ## My Projects 
 
+- [Resume](https://olawale-afuye.netlify.app/)
 - [Church management system built with Django](https://github.com/walosha/church_be)
 - [Chat app built with Flask and socket.io](https://github.com/walosha/python-flask-chat-with-socket.io)
 - [Nodejs application built with express, swagger,redis,mongo and docker](https://github.com/walosha/BACKEND_DEV_TESTS)
