@@ -21,6 +21,7 @@ Thanks for stopping by!eel free to reach out to me for anything, you can send me
 
 ## My Blog Posts 
 
+- [Key Concepts Every Backend Engineer Should Master](https://dev.to/walosha/key-concepts-every-backend-engineer-should-master-3ak7)
 - [Registry Pattern](https://dev.to/walosha/registry-pattern-revolutionize-your-object-creation-and-management-lms-as-a-case-study-58km)
 - [Smart Steps for Remote Work Newbies: Protecting Yourself in the Digital Landscape ](https://dev.to/walosha/smart-steps-for-remote-work-newbies-protecting-yourself-in-the-digital-landscape-428o)
 - [Adapter Pattern](https://dev.to/walosha/adapter-pattern-using-a-payment-gateway-as-a-case-study-4nnn)
