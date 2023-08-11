@@ -1,5 +1,4 @@
 ### Hi there, thank you for checking on my repo. Feel free to use any of the project to your own satisfaction 👋
- <img src="https://komarev.com/ghpvc/?username=walosha&style=flat-square&color=blue" alt=""/>
 
 [![Afuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=walosha&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=walosha&theme=green&hide_border=true)
@@ -49,3 +48,5 @@ Thanks for stopping by!eel free to reach out to me for anything, you can send me
 - [App deployed using serverless!](https://github.com/walosha/ussd-north)
 - [Module Federation react app](https://github.com/walosha/module_federation)
 - [Maintenance Tracker (First every backend project,lol)](https://github.com/walosha/maintenance-tracker-Api)
+ <img src="https://komarev.com/ghpvc/?username=walosha&style=flat-square&color=blue" alt=""/>
+
