@@ -1,4 +1,5 @@
 ### Hi there, thank you for checking on my repo. Feel free to use any of the project to your own satisfaction 👋
+    <img src="https://komarev.com/ghpvc/?username=walosha&style=flat-square&color=blue" alt=""/>
 
 [![Afuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=walosha&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=walosha&theme=green&hide_border=true)
