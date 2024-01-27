@@ -15,8 +15,7 @@ Welcome to my GitHub profile! My name is Olawale Afuye, and I'm a senior softwar
 🔭 When it comes to databases, I've worked extensively with redis, elasticache, MySQL, PostgreSQL, and MongoDB.
 💻 I'm an avid fan of both Macbooks and Linux operating systems.
 👯 I'm always on the lookout for new and exciting projects to collaborate on, especially those that aim to solve complex human challenges.
-💬 Feel free to drop me a line anytime! You can reach me at walosha@yahoo.com, or if I'm not coding, at hello@pacific-professional.com.ng.
-Thanks for stopping by!eel free to reach out to me for anything, you can send me an email at walosha@yahoo.com or say hello at hello@pacific-professional.com.ng when I'm not coding.
+Thanks for stopping by!eel free to reach out to me for anything, you can send me an email at walosha@yahoo.com.
 ```
 
 ## My Blog Posts 
